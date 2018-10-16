@@ -24,5 +24,8 @@ There will be more videos building out the rest of TODOMVC.
 - [Start of Lecture](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-1)
 - [End of Lecture](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-2)
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-todomvc-2-lists-have-items/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-todomvc-2-lists-have-items/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/todomvc-2-lists-have-items'>TodoMVC 2:  Lists have Items</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Objectives</p>
